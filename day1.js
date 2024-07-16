@@ -56,8 +56,6 @@ nameReassign = "lucky Kashyap";
 console.log(`After reassign of a const variable value is: ${nameReassign}`);
 
 // OUTPUT:
-// Before reassign of a const variable value is: Anshu
-// c:\Htlm and css code\JavaScript 30Days challenge\1DayVariablesAndDataType.js:57
+// Before reassign of a const variable value is: lucky
 // nameReassign = "lucky kashyap";
-//              ^
 // TypeError: Assignment to constant variable. const variable value never reassign.
