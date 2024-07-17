@@ -15,3 +15,7 @@
 ## Day 4
 
 #### Loops
+
+## Day 5
+
+#### Functions
